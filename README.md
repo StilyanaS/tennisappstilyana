@@ -8,7 +8,7 @@ This is a basic e-commerce app with simple cart. Provides a brief description an
 
 ## Documentation
 
-To start editing the project you need
+To start editing the project you need to:
 
 1. Have installed npm package (command: npm i)
 2. Clone the project on local
